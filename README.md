@@ -2,6 +2,9 @@
 Other Important Algorithms in Data Science
 
 * Naive Bayes -  
-* KNN - https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
+* KNN - 
+- https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
+- https://en.wikipedia.org/wiki/Metric_(mathematics)
+
 * Linear Discriminant Analysis - 
 * SVM - Support Vector Machines
